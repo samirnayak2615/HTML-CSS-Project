@@ -1,0 +1,38 @@
+
+.container{
+    background-image: url(front-view-yellow-grapes-wine-bottle-wine-glass-red-background.jpg);
+    margin: 100px 10%;
+    width:50%;
+    padding:10%;
+    border-radius: 100px;
+}
+h1{
+    background-image: linear-gradient(to right, #ee00ff 0%, #fbff00 100%);
+    color: transparent;
+    background-clip: text;
+    text-align: center;
+    font-size:60px;
+}
+h2{
+    background-image: linear-gradient(to right, #ee00ff 0%, #fbff00 100%);
+    color: transparent;
+    background-clip: text;
+    text-align:center;
+    font-size:40px;
+    font-family:'Times New Roman', Times, serif;
+}    
+ul{
+    font-size: 30px;
+    color:#8f94fb
+}
+footer{
+       text-align: right;
+       font-size: larger;
+       font-weight: bolder;
+}
+p{
+    font-size: xx-large;
+}
+.image{
+    text-align: right;
+}
